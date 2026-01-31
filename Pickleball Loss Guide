@@ -1,0 +1,155 @@
+<svg width="300" height="80" viewBox="0 0 300 80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="80" rx="10" fill="#2e7d32"/>
+  <circle cx="40" cy="40" r="22" fill="#f4f6f8"/>
+  <circle cx="35" cy="35" r="3" fill="#2e7d32"/>
+  <circle cx="45" cy="35" r="3" fill="#2e7d32"/>
+  <circle cx="35" cy="45" r="3" fill="#2e7d32"/>
+  <circle cx="45" cy="45" r="3" fill="#2e7d32"/>
+  <text x="80" y="33" font-size="20" fill="white" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+    Pickleball Association
+  </text>
+  <text x="80" y="55" font-size="12" fill="#c8e6c9" font-family="Arial, Helvetica, sans-serif">
+    Sportsmanship • Wellness • Recovery
+  </text>
+</svg>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f4f6f8;
+  color: #222;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+header {
+  background: #2e7d32;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+header img {
+  max-width: 260px;
+  margin-bottom: 10px;
+}
+
+nav {
+  background: #e0e0e0;
+  padding: 10px;
+  text-align: center;
+  font-size: 14px;
+}
+
+nav a {
+  margin: 0 10px;
+  color: #2e7d32;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+main {
+  max-width: 800px;
+  margin: 30px auto;
+  background: white;
+  padding: 30px;
+  border-radius: 6px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h2 {
+  color: #2e7d32;
+}
+
+.tip {
+  background: #f1f8f4;
+  border-left: 5px solid #2e7d32;
+  padding: 15px;
+  margin: 20px 0;
+}
+
+footer {
+  text-align: center;
+  font-size: 12px;
+  color: #777;
+  margin: 40px 0 20px;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>How to Handle Losing at Pickleball</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <img src="logo.svg" alt="Pickleball Association Logo">
+  <h1>How to Handle Losing at Pickleball</h1>
+  <p>A practical guide for emotional recovery after an unexpected defeat</p>
+</header>
+
+<nav>
+  <a href="#">Home</a>
+  <a href="#">Mental Toughness</a>
+  <a href="#">Equipment Blame</a>
+  <a href="#">Advanced Excuses</a>
+</nav>
+
+<main>
+  <h2>Step 1: Take a Deep Breath</h2>
+  <p>
+    Losing at pickleball can feel shocking, especially when you were “definitely winning”
+    up until the score proved otherwise.
+  </p>
+
+  <div class="tip">
+    <strong>Pro Tip:</strong> Counting to ten is effective. Counting to eleven is suspiciously competitive.
+  </div>
+
+  <h2>Step 2: Accept Reality (Briefly)</h2>
+  <ul>
+    <li>“Good game.”</li>
+    <li>“Nice shots.”</li>
+    <li>“Yeah, you played well today.”</li>
+  </ul>
+
+  <h2>Step 3: Do Not Blame the Paddle</h2>
+  <p>
+    Paddles do not lose pop. Players lose patience.
+  </p>
+
+  <div class="tip">
+    <strong>Warning:</strong> Complaining about a $200 paddle reduces credibility by 73%.
+  </div>
+
+  <h2>Step 4: Reframe the Loss</h2>
+  <ul>
+    <li>A learning experience</li>
+    <li>Basically a warm-up</li>
+    <li>Not even your main sport</li>
+  </ul>
+
+  <h2>Step 5: Move On Like an Adult</h2>
+  <p>
+    Hydrate. Congratulate your opponent. Plot your redemption arc in silence.
+  </p>
+</main>
+
+<footer>
+  © 2026 Pickleball Association — Emotional Wellness Division<br>
+  This site is for educational purposes and extremely sore losers.
+</footer>
+
+</body>
+</html>
+# How to Handle Losing at Pickleball
+
+An educational resource provided by the Pickleball Association’s
+Emotional Wellness Division.
+
+## Purpose
+To promote sportsmanship, emotional regulation, and paddle safety
+following unexpected pickleball losses.
+
+## Disclaimer
+This site may contain humor.
